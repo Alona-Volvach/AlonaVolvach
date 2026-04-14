@@ -1,6 +1,5 @@
 # Hi, I'm Alona 👋
-- ---
--
+
 ## 💻 Junior Frontend Developer
 ## 🚀 Currently looking for an internship or junior position
 
