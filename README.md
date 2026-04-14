@@ -38,5 +38,5 @@ Improved usability and visual structure of the shopping experience
 ![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
 ## 📫 How to reach me:  
-[Email](mailto:a.volvach.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alona-volvach) |  [Telegram](https://t.me/volvach_al) |  [Email](mailto:a.volvach.dev@gmail.com)
 
